@@ -1,0 +1,1 @@
+#define RECORD_BUF_LENGTH 2560

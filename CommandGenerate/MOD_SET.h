@@ -1,0 +1,1 @@
+#define  RUN_MODE  2  //  1-4002  2-CI1102
